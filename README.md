@@ -4,9 +4,9 @@ This repo contains the seed codebase for the MakersBnB project in Ruby (using Si
 
 Someone in your team should fork this seed repo to their Github account. Everyone in the team should then clone this fork to their local machine to work on it.
 
-![Landing Page screenshot](https://github.com/k-dun/Makers-bnb/blob/main/landingpage.png)
+![Landing Page screenshot](public/landingpage.png)
 
-![Listings Page screenshot](https://github.com/k-dun/Makers-bnb/blob/main/listings.png)
+![Listings Page screenshot](public/listings.png)
 
 
 ## Setup
