@@ -11,6 +11,11 @@ Created by: Konrad, Sarah, Monica, Chang & Destin
 ![Listings Page screenshot](public/listings.png)
 
 
+![Landing Page screenshot](public/landingpage.png)
+
+![Listings Page screenshot](public/listings.png)
+
+
 ## Setup
 
 ```bash
