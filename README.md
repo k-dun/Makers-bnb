@@ -1,8 +1,15 @@
-# MakersBnB Project Seed
+# MakersBnB Project
 
-This repo contains the seed codebase for the MakersBnB project in Ruby (using Sinatra and RSpec).
+This was our first team project on the Makers Academy course.
 
-Someone in your team should fork this seed repo to their Github account. Everyone in the team should then clone this fork to their local machine to work on it.
+An Airbnb clone that allows users to list and rent spaces.
+
+Created by: Konrad, Sarah, Monica, Chang & Destin
+
+![Landing Page screenshot](public/landingpage.png)
+
+![Listings Page screenshot](public/listings.png)
+
 
 ## Setup
 
